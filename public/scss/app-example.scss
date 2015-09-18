@@ -1,0 +1,15 @@
+/*
+  EXAMPLE APPLICATION SPECIFIC STYLINGS
+  --------
+  
+  This file currently contains typography stylings.
+*/
+
+// Variable definition
+$app-grey: #67686A;
+
+
+// Class definitions
+.app-light-text {
+    color: $app-grey;
+}
